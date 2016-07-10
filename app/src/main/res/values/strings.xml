@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="operand_one">1</string>
+    <string name="operand_two">2</string>
+    <string name="operand_three">3</string>
+    <string name="operand_four">4</string>
+    <string name="operand_five">5</string>
+    <string name="operand_six">6</string>
+    <string name="operand_seven">7</string>
+    <string name="operand_eight">8</string>
+    <string name="operand_nine">9</string>
+    <string name="operand_zero">0</string>
+    <string name="operand_point">.</string>
+    <string name="operand_exponent">E</string>
+    
+    <string name="operator_add">+</string>
+    <string name="operator_subtract">-</string>
+    <string name="operator_multiply">×</string>
+    <string name="operator_divide">÷</string>
+    <string name="operator_brackets">( )</string>
+
+    <string name="action_calculate">=</string>
+    <string name="action_backspace">delete</string>
+    <string name="action_reset">C</string>
+
+</resources>
